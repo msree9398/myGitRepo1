@@ -5,4 +5,12 @@
 5th java lines of code by DEV_A
 
 
+
 Completed Manager work
+=======
+1st day of line of code completed
+2nd day of line of code completed
+3rd day of line of code completed
+4th day of line of code completed
+5th day of line of code completed
+
